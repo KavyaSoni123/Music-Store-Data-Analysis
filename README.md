@@ -26,6 +26,9 @@ The Music Store Analysis project aims to explore various facets of the store's o
 ## Dataset
 
 The dataset consists of tables such as `customer`, `invoice`, `invoice_line`, `track`, `album`, `artist`, and `genre`. The data includes customer details, sales transactions, music tracks, and artist information.
+![Dataset Schema](./MusicDatabaseSchema)
+
+_Figure: Schema of the Music Store Database_
 
 ## Queries Overview
 

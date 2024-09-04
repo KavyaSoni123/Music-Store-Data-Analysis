@@ -30,8 +30,6 @@ The dataset consists of tables such as `customer`, `invoice`, `invoice_line`, `t
 
 _Figure: Schema of the Music Store Database_
 
-_Figure: Schema of the Music Store Database_
-
 ## Queries Overview
 
 ### Easy Questions
